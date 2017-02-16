@@ -1,0 +1,45 @@
+h2 {
+  color : yellow;
+  background : blue;
+  font-style : italic;
+  text-align : center;
+    
+}
+h1.blau {
+  text-align : center;
+  color : blue;
+}
+img {
+  display : block;
+  margin : 10px auto 10px auto ;
+}
+.liste {
+  float : left;
+}
+.verweise {
+  float : right;   
+}
+a {
+  text-align : right;
+  float : right;
+}
+.zentriert {
+  margin : auto;
+}
+#hervorheben {
+  color : yellow;
+  background-color : green;
+  padding-left: 10px;
+}
+table {
+  border-collapse: collapse; 
+  width : 50%;
+  text-align : center;
+}
+table, th, td {
+   border: 1px solid black;  
+}
+th {
+  color : blue;
+  
+}
